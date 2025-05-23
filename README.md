@@ -1,8 +1,7 @@
 # EX01 Developing a Simple Webserver
 
 # Date: 28-02-2025
-# Name: KAVIYA SHREE S
-# Reg.No: 212222110018
+
 
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
